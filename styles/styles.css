@@ -10,6 +10,22 @@
  * governing permissions and limitations under the License.
  */
 
+
+
+
+ /* CML customization Start*/
+ .section:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.section:nth-child(even) {
+background-color: #ffffdd;
+}
+/* CML Customization End*/
+
+
+
+
  :root {
   /* colors */
   --color-yellow: #ffea00;
